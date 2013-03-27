@@ -1,0 +1,28 @@
+.logo {
+  display: table-cell;
+  vertical-align: middle;
+  padding-bottom: 10px;
+}
+.logo img {
+  width: 20px;
+  height: 20px;
+}
+.profile .details {
+  clear: both;
+}
+.profile .details img.face {
+  max-width: 75px;
+  max-height: 75px;
+  float: left;
+}
+.profile .details .data {
+  float: right;
+}
+.profile .name {
+  float: left;
+  font-weight: bold;
+}
+.profile .collapsibleLink {
+  float: right;
+  font-style: italic;
+}
